@@ -1,0 +1,10 @@
+{
+  "properties": {
+    "recordPackageURI": {
+      "title": "Record Package URI",
+      "description": "A URI pointing to a record package for this contracting process ",
+      "format": "uri",
+      "type": "string"
+    }
+  }
+}
