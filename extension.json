@@ -6,6 +6,6 @@
     "en": "An URI pointing to a record package for this contracting process"
   },
   "documentationUrl": {
-    "en": "http://httpbin.org/anything/path/to/documentation/in/specified/language"
+    "en": "https://github.com/gitMHOCDS/record-package-uri"
   }
 }
